@@ -7,8 +7,10 @@ package bezeq;
 public class Utils implements java.io.Serializable {
 
     static final long serialVersionUID = 1L;
+    public static String MY_CONST = "TEST";
 
     public Utils() {
     }
+
 
 }
