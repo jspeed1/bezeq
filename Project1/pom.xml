@@ -7,14 +7,6 @@
   <version>1.0</version>
   <packaging>kjar</packaging>
   <name>Project1</name>
-  <dependencies>
-    <dependency>
-      <groupId>bezeq</groupId>
-      <artifactId>bezeq-common</artifactId>
-      <version>1.0</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
