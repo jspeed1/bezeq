@@ -3,4 +3,13 @@
 <property name="name" value="order-service.orderA-taskform.form"/>
 <property name="displayMode" value="default"/>
 <property name="status" value="0"/>
+<field position="0" name="firstName" type="InputText" id="1476249658">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;firstName (firstName)quot;"/>
+<property name="readonly" value="false"/>
+<property name="inputBinding" value="firstName"/>
+<property name="outputBinding" value="firstName"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="firstName" name="#E9E371" type="basicType" outId="firstName" value="java.lang.String" id="firstName"/>
 </form>
