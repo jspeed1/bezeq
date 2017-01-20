@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>bezeq</groupId>
   <artifactId>data-objects</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>data-objects</name>
   <repositories>
