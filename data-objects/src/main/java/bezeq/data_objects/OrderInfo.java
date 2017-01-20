@@ -10,7 +10,7 @@ public class OrderInfo implements java.io.Serializable
    static final long serialVersionUID = 1L;
 
    @org.kie.api.definition.type.Label(value = "id")
-   private int id = 55;
+   private int id = 8;
    @org.kie.api.definition.type.Label(value = "type")
    private java.lang.String type;
 
