@@ -36,12 +36,6 @@
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>new com.jspeed.bpm.custom.servicetask.MyNodeWorkItemHandler()</identifier>
-            <parameters/>
-            <name>FetchCustomerInformation</name>
-        </work-item-handler>
-        <work-item-handler>
-            <resolver>mvel</resolver>
             <identifier>new org.jbpm.process.workitem.rest.RESTWorkItemHandler(classLoader)</identifier>
             <parameters/>
             <name>Rest</name>
