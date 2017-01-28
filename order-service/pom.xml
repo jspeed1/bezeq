@@ -7,11 +7,17 @@
   <version>4.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>order-service</name>
+  
+   <parent> 
+  <groupId>bezeq</groupId>
+  <artifactId>bezeq-versions</artifactId>
+  <version>1.0</version>
+   </parent>
   <dependencies>
     <dependency>
       <groupId>com.bezeq</groupId>
       <artifactId>bezeq-bpm-utils</artifactId>
-      <version>2.0-SNAPSHOT</version>
+      <version>${bezeq-bpm-utils.version}</version>
     </dependency>
     <dependency>
       <groupId>bezeq</groupId>
