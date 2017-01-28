@@ -5,7 +5,7 @@
   <groupId>bezeq</groupId>
   <artifactId>bezeq-versions</artifactId>
   <version>1.0</version>
-  <packaging>kjar</packaging>
+  <packaging>pom</packaging>
   <name>bezeq-versions</name>
   <properties> 
       <bezeq-bpm-utils.version>1.1.2-SNAPSHOT</bezeq-bpm-utils.version> 
