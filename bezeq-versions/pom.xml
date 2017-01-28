@@ -7,6 +7,9 @@
   <version>1.0</version>
   <packaging>kjar</packaging>
   <name>bezeq-versions</name>
+  <properties> 
+      <my.version>1.1.2-SNAPSHOT</my.version> 
+  </properties>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
